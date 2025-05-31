@@ -2,11 +2,10 @@
 
 
 
-- 🔭 I’m currently working on building a personal cloud infrastructure on AWS using Terraform, Practicing CI/CD pipeline automation with Jenkins and Docker, Learning advanced Kubernetes orchestration through hands-on labs.<br><br>
+ # 💫 About Me:
+   - 🔭 I’m currently working on building a personal cloud infrastructure on AWS using Terraform, Practicing CI/CD pipeline automation with Jenkins and Docker, Learning advanced Kubernetes orchestration through hands-on labs.<br><br>
 - 👯 I’m looking to collaborate on Devops automation projects, AWS Cloud-based projects, open source tools related to system monitoring and log management.<br>
 
- # 💫 About Me:
-   I'm  <br><br>Devops & AWS Enthusiast | Linux Administrator |  Networking Aficionado<br><br>I'm currently working on building a personal cloud infrastructure on AWS using Terraform, Practicing CI/CD pipeline automation with Jenkins and Docker, Learning advanced Kubernetes orchestration through hands-on labs.<br><br>I'm looking to collaborate on Devops automation projects, AWS Cloud-based projects, open source tools related to system monitoring and log management.<br>
 
 
 ## 🌐 Socials:
