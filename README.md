@@ -1,9 +1,6 @@
 ## Hi there 👋 I'm Mahaa Dharunya S J <br><br>Devops & AWS Enthusiast | Linux Administrator |  Networking Aficionado<br><br>
 
 <!--
-**Mahaadharunya/Mahaadharunya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building a personal cloud infrastructure on AWS using Terraform, Practicing CI/CD pipeline automation with Jenkins and Docker, Learning advanced Kubernetes orchestration through hands-on labs.<br><br>
 - 👯 I’m looking to collaborate on Devops automation projects, AWS Cloud-based projects, open source tools related to system monitoring and log management.<br>
